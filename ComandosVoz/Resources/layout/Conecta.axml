@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:drawable/alert_light_frame">
+    <TextView
+        android:text="Dispositivos emparejados:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:textColor="@android:color/black"
+        android:textSize="30dp"
+        android:textStyle="normal"
+        android:typeface="monospace" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="538.6dp"
+        android:layout_height="656dp"
+        android:id="@+id/listView1"
+        android:layerType="none"
+        android:background="@drawable/lista"
+        android:paddingTop="20dp"
+        android:paddingStart="20dp"
+        android:paddingRight="20dp"
+        android:paddingEnd="20dp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="20dp"
+        android:layout_marginLeft="19dp" />
+    <Button
+        android:text="Salir"
+        android:layout_width="271dp"
+        android:layout_height="75.1dp"
+        android:id="@+id/button1"
+        android:textSize="30dp"
+        android:shadowColor="#00000000"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="30dp"
+        android:textColor="@android:color/background_dark"
+        android:background="@drawable/botones" />
+</LinearLayout>

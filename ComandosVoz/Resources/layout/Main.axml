@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light">
+    <Button
+        android:layout_width="318.0dp"
+        android:layout_height="133.0dp"
+        android:id="@+id/button1"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginLeft="70dp"
+        android:background="@drawable/boton"
+        android:textColor="@android:color/black"
+        android:textSize="50dp" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="295.3dp"
+        android:layout_height="139.7dp"
+        android:id="@+id/textView1"
+        android:layout_marginLeft="30dp"
+        android:foregroundTint="#00000000"
+        android:textAlignment="center"
+        android:textStyle="normal"
+        android:layout_marginTop="20dp"
+        android:layerType="none"
+        android:outlineProvider="none"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="15dp" />
+    <Button
+        android:text="Buscar Bluetooth"
+        android:layout_width="249.4dp"
+        android:layout_height="70dp"
+        android:id="@+id/button2"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="10dp"
+        android:textSize="10dp"
+        android:textColor="@android:color/black"
+        android:background="@drawable/botones" />
+    <Button
+        android:text="Conectar"
+        android:layout_width="250.9dp"
+        android:layout_height="70dp"
+        android:id="@+id/button3"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="10dp"
+        android:textSize="10dp"
+        android:textColor="@android:color/black"
+        android:background="@drawable/botones" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="398.1dp"
+        android:layout_height="207dp"
+        android:id="@+id/textView2"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="15dp"
+        android:layout_marginLeft="30dp" />
+</LinearLayout>

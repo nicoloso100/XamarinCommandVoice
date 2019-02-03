@@ -1,0 +1,8 @@
+ComandosVoz.Conexion, ComandosVoz;md544c8146e1724353efda494370f65d606.Conexion
+ComandosVoz.Conexion, ComandosVoz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md544c8146e1724353efda494370f65d606.Conexion
+ComandosVoz.Conexion;md544c8146e1724353efda494370f65d606.Conexion
+comandosvoz.Conexion;md544c8146e1724353efda494370f65d606.Conexion
+ComandosVoz.MainActivity, ComandosVoz;md544c8146e1724353efda494370f65d606.MainActivity
+ComandosVoz.MainActivity, ComandosVoz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md544c8146e1724353efda494370f65d606.MainActivity
+ComandosVoz.MainActivity;md544c8146e1724353efda494370f65d606.MainActivity
+comandosvoz.MainActivity;md544c8146e1724353efda494370f65d606.MainActivity
